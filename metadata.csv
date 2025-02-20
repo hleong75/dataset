@@ -1,4 +1,4 @@
-Audio File,Transcription
+audio_path,transcription
 dataset/0000.wav,"Votre attention s'il vous plaît, ce train a pour destination Cergy-le-Haut. Il desservira Pont-Cardinet, Clichy-Levallois, Bécon-les-Bruyères et toutes les gares de Nanterre-Université à Cergy-le-Haut."
 dataset/0001.wav,"Votre attention s'il vous plaît, ce train a pour destination Cergy-le-Haut. Il desservira toutes les gares de Nanterre-Université à Cergy-le-Haut."
 dataset/0002.wav,"Votre attention s'il vous plaît, ce train a pour destination Cergy-le-Haut. Ce train desservira toutes les gares jusqu'à Cergy-le-Haut."
